@@ -1,0 +1,33 @@
+E:\Arduino Project\Application\RxTx with Arduino\RxTx with Arduino\bin\Debug\RxTx with Arduino.exe.config
+E:\Arduino Project\Application\RxTx with Arduino\RxTx with Arduino\bin\Debug\RxTx with Arduino.exe
+E:\Arduino Project\Application\RxTx with Arduino\RxTx with Arduino\bin\Debug\RxTx with Arduino.pdb
+E:\Arduino Project\Application\RxTx with Arduino\RxTx with Arduino\obj\Debug\RxTx with Arduino.csproj.AssemblyReference.cache
+E:\Arduino Project\Application\RxTx with Arduino\RxTx with Arduino\obj\Debug\RxTx with Arduino.csproj.SuggestedBindingRedirects.cache
+E:\Arduino Project\Application\RxTx with Arduino\RxTx with Arduino\obj\Debug\RxTx_with_Arduino.Properties.Resources.resources
+E:\Arduino Project\Application\RxTx with Arduino\RxTx with Arduino\obj\Debug\RxTx_with_Arduino.SerialCom.resources
+E:\Arduino Project\Application\RxTx with Arduino\RxTx with Arduino\obj\Debug\RxTx with Arduino.csproj.GenerateResource.cache
+E:\Arduino Project\Application\RxTx with Arduino\RxTx with Arduino\obj\Debug\RxTx with Arduino.csproj.CoreCompileInputs.cache
+E:\Arduino Project\Application\RxTx with Arduino\RxTx with Arduino\obj\Debug\RxTx with Arduino.exe
+E:\Arduino Project\Application\RxTx with Arduino\RxTx with Arduino\obj\Debug\RxTx with Arduino.pdb
+E:\Arduino Project\Master Folder\Application\RxTx with Arduino\RxTx with Arduino\bin\Debug\RxTx with Arduino.exe.config
+E:\Arduino Project\Master Folder\Application\RxTx with Arduino\RxTx with Arduino\bin\Debug\RxTx with Arduino.exe
+E:\Arduino Project\Master Folder\Application\RxTx with Arduino\RxTx with Arduino\bin\Debug\RxTx with Arduino.pdb
+E:\Arduino Project\Master Folder\Application\RxTx with Arduino\RxTx with Arduino\obj\Debug\RxTx with Arduino.csproj.AssemblyReference.cache
+E:\Arduino Project\Master Folder\Application\RxTx with Arduino\RxTx with Arduino\obj\Debug\RxTx with Arduino.csproj.SuggestedBindingRedirects.cache
+E:\Arduino Project\Master Folder\Application\RxTx with Arduino\RxTx with Arduino\obj\Debug\RxTx_with_Arduino.Properties.Resources.resources
+E:\Arduino Project\Master Folder\Application\RxTx with Arduino\RxTx with Arduino\obj\Debug\RxTx_with_Arduino.SerialCom.resources
+E:\Arduino Project\Master Folder\Application\RxTx with Arduino\RxTx with Arduino\obj\Debug\RxTx with Arduino.csproj.GenerateResource.cache
+E:\Arduino Project\Master Folder\Application\RxTx with Arduino\RxTx with Arduino\obj\Debug\RxTx with Arduino.csproj.CoreCompileInputs.cache
+E:\Arduino Project\Master Folder\Application\RxTx with Arduino\RxTx with Arduino\obj\Debug\RxTx with Arduino.exe
+E:\Arduino Project\Master Folder\Application\RxTx with Arduino\RxTx with Arduino\obj\Debug\RxTx with Arduino.pdb
+E:\Arduino Project\AS2019925\Source Code\C# Application\RxTx with Arduino\RxTx with Arduino\bin\Debug\RxTx with Arduino.exe.config
+E:\Arduino Project\AS2019925\Source Code\C# Application\RxTx with Arduino\RxTx with Arduino\bin\Debug\RxTx with Arduino.exe
+E:\Arduino Project\AS2019925\Source Code\C# Application\RxTx with Arduino\RxTx with Arduino\bin\Debug\RxTx with Arduino.pdb
+E:\Arduino Project\AS2019925\Source Code\C# Application\RxTx with Arduino\RxTx with Arduino\obj\Debug\RxTx with Arduino.csproj.AssemblyReference.cache
+E:\Arduino Project\AS2019925\Source Code\C# Application\RxTx with Arduino\RxTx with Arduino\obj\Debug\RxTx with Arduino.csproj.SuggestedBindingRedirects.cache
+E:\Arduino Project\AS2019925\Source Code\C# Application\RxTx with Arduino\RxTx with Arduino\obj\Debug\RxTx_with_Arduino.Properties.Resources.resources
+E:\Arduino Project\AS2019925\Source Code\C# Application\RxTx with Arduino\RxTx with Arduino\obj\Debug\RxTx_with_Arduino.SerialCom.resources
+E:\Arduino Project\AS2019925\Source Code\C# Application\RxTx with Arduino\RxTx with Arduino\obj\Debug\RxTx with Arduino.csproj.GenerateResource.cache
+E:\Arduino Project\AS2019925\Source Code\C# Application\RxTx with Arduino\RxTx with Arduino\obj\Debug\RxTx with Arduino.csproj.CoreCompileInputs.cache
+E:\Arduino Project\AS2019925\Source Code\C# Application\RxTx with Arduino\RxTx with Arduino\obj\Debug\RxTx with Arduino.exe
+E:\Arduino Project\AS2019925\Source Code\C# Application\RxTx with Arduino\RxTx with Arduino\obj\Debug\RxTx with Arduino.pdb
